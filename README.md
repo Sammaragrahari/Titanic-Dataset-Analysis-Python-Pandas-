@@ -1,1 +1,2 @@
-# Titanic-Dataset-Analysis-Python-Pandas-
+Titanic Dataset Analysis (Python & Pandas)
+This project focuses on performing a complete end-to-end data analysis workflow on the Titanic dataset with the goal of uncovering patterns that influenced survival outcomes. The Titanic dataset is widely used in data science because it contains a mix of demographic, categorical, and numerical variables that allow analysts to practice real-world data cleaning and exploratory analysis.
